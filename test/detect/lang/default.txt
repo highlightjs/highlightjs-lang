@@ -1,0 +1,10 @@
+# This is a comment!
+gameTip.findTree=Punch a tree to gather wood.# This is another comment!
+gameTip.breakWood.controller=Hold down :_input_key.attack: on a tree to break wood.
+
+commands.difficulty.usage=/difficulty <new difficulty>
+commands.effect.success=Gave %1$s * %2$d to %3$s for %4$d seconds
+
+store.realmsPlus.viewAllPacksTitle=A GREAT VALUE - PACKS WORTH OVER §g$150 (USD)!§r
+
+item.example:foo.name=Bar

@@ -1,0 +1,4 @@
+# To see if `<` highlighting is correctly skipped if no `>` is on the same line.
+
+item.example:test.name=5 < 0
+item.example:other.name=1 > 0
