@@ -6,8 +6,5 @@
   "main": "./src/languages/lang.js",
   "dependencies": {
     "highlight.js": "^11.7.0"
-  },
-  "scripts": {
-    "test": "node ./test/npm-test.js"
   }
 }
