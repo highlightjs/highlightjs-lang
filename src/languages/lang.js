@@ -23,7 +23,7 @@ module.exports = function (hljs) {
       },
       {
         className: "string",
-        begin: "(?<=\\=)[A-Za-z]",
+        begin: "(?<==).",
         end: "(?!.)|(?=#)",
         contains: [
           {
