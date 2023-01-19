@@ -2,7 +2,7 @@
   "name": "highlightjs-lang",
   "description": "A hljs language for Minecraft's .lang files",
   "authors": "AdamRaichu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./src/languages/lang.js",
   "dependencies": {
     "highlight.js": "^11.7.0"
