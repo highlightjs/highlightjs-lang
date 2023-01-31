@@ -39,7 +39,7 @@ To highlight code with a specific language, use `highlight`:
 html = hljs.highlight('gameTip.findTree=Punch a tree to gather wood.\n...', {language: 'lang'}).value
 ```
 
-> **Note**: Because lang can be so generic at times, it is recommended to not rely on autodetection and instaed use `highlight` and specify the language.
+> **Note**: Because lang can be so generic at times, it is recommended to not rely on autodetection and instead use `highlight` and specify the language.
 
 See [Importing the Library](https://github.com/highlightjs/highlight.js#importing-the-library) for more examples of `require` vs `import` usage, etc.  For more information about the result object returned by `highlight` or `highlightAuto` refer to the [api docs](https://highlightjs.readthedocs.io/en/latest/api.html).
 
